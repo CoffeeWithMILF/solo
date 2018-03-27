@@ -3,9 +3,6 @@ layout: default
 ---
 
 
-
-
-
-NE
+# NE
 
 
